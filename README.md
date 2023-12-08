@@ -1,27 +1,44 @@
-# ProjetModule
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
+# EarthEcho Platform
+![EarthEcho Logo](https://github.com/ons-manai08/earth-echo/blob/main/src/assets/images/Logo.png)
 
-## Development server
+Bienvenue sur EarthEcho, la plateforme immersive de sensibilisation environnementale qui combine design moderne, éducation interactive et engagement écologique. Notre projet vise à éduquer, inspirer et mobiliser les utilisateurs du monde entier pour relever les défis du changement climatique. Découvrez une expérience unique où la beauté du design rencontre l'urgence de la préservation environnementale.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Fonctionnalités Principales
 
-## Code scaffolding
+### 1. Accueil
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+La section d'accueil présente une introduction engageante à EarthEcho, mettant en lumière les éléments fondamentaux de notre planète : Terre, Air et Eau. Explorez chaque élément à travers des visuels saisissants et des informations pertinentes.
 
-## Build
+### 2. Terre, Air, Eau
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Découvrez des sections dédiées à chaque élément, offrant une analyse approfondie des problèmes, des effets et des solutions liés à la Terre, à l'Air et à l'Eau. Explorez des informations éducatives, des graphiques interactifs et des solutions pratiques pour comprendre et agir.
 
-## Running unit tests
+### 3. Thèmes Dynamiques
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Personnalisez votre expérience visuelle avec notre fonctionnalité de thèmes dynamiques. Choisissez parmi une variété de thèmes graphiques, tous en accord avec le sujet de la Nuit de l'Info, pour créer une expérience utilisateur unique.
 
-## Running end-to-end tests
+### 4. Vidéo Démo de Design
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Découvrez EarthEcho en action grâce à notre vidéo démo de design. Explorez l'esthétique innovante, les fonctionnalités intuitives et l'engagement écologique qui définissent notre plateforme.
 
-## Further help
+### 5. Contribution et Sensibilisation
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Participez à notre mission en contribuant à la plateforme et en partageant vos propres idées. Engagez-vous avec la communauté EarthEcho pour stimuler la sensibilisation et inspirer des actions concrètes en faveur de notre planète.
+
+## Comment Contribuer
+
+1. *Clonez le Projet :* git clone https://github.com/votre-utilisateur/earthecho.git
+2. *Installez les Dépendances :* npm install
+3. *Contribuez :* Ajoutez des fonctionnalités, résolvez des problèmes, et faites des suggestions.
+4. *Envoyez une Pull Request :* Partagez vos contributions pour examen.
+
+## Exécution Locale
+
+1. *Installez les Dépendances :* npm install
+2. *Démarrez le Serveur de Développement :* npm start
+3. *Accédez à l'Application :* Visitez http://localhost:3000 dans votre navigateur.
+
+## Licence
+
+Ce projet est sous licence [MIT](LICENSE).
